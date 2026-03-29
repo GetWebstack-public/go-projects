@@ -16,3 +16,6 @@
 [submodule "go-grpc"]
 	path = go-grpc
 	url = git@github.com:GetWebstack-public/go-grpc.git
+[submodule "hugo"]
+	path = hugo
+	url = git@github.com:GetWebstack-public/hugo.git
