@@ -1,0 +1,6 @@
+[submodule "go-chi"]
+	path = go-chi
+	url = git@github.com:GetWebstack-public/go-chi.git
+[submodule "go-echo"]
+	path = go-echo
+	url = git@github.com:GetWebstack-public/go-echo.git
