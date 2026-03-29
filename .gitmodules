@@ -4,3 +4,15 @@
 [submodule "go-echo"]
 	path = go-echo
 	url = git@github.com:GetWebstack-public/go-echo.git
+[submodule "go-fiber"]
+	path = go-fiber
+	url = git@github.com:GetWebstack-public/go-fiber.git
+[submodule "go-generic"]
+	path = go-generic
+	url = git@github.com:GetWebstack-public/go-generic.git
+[submodule "go-gin"]
+	path = go-gin
+	url = git@github.com:GetWebstack-public/go-gin.git
+[submodule "go-grpc"]
+	path = go-grpc
+	url = git@github.com:GetWebstack-public/go-grpc.git
